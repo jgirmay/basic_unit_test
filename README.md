@@ -9,5 +9,5 @@ Status
 ------
 
 Build status
-<img src="https://travis-ci.org/jgirmay/basic_unit_test.png" title="Build Status Images">
+[![Build Status](https://travis-ci.org/jgirmay/basic_unit_test.png?branch=master)](https://travis-ci.org/jgirmay/basic_unit_test.png)
 
