@@ -9,5 +9,6 @@ Status
 ------
 
 Continuous integration:
-:alt: Build status
-:target: https://travis-ci.org/jgirmay/basic_unit_test
+Build status
+<img src="https://travis-ci.org/jgirmay/basic_unit_test.png" data-bindattr-16="16" title="Build Status Images">
+
